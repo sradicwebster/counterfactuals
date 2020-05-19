@@ -4,7 +4,7 @@ University of Bristol Interactive AI CDT first year module "Advanced topics in A
 Using a toy data set I generated counterfactuals by:
 - nearest neighbour to achieve the desired classification;
 - mininising a loss function to find "the closest possible world", an approach suggested by [Wachter et. al][wachter];
-- finding the shortest path in a density-weighted grpahs, an approach suggested by Poyiadzi et. al in [Feasible and Actionable Counterfactual Explainations][face].
+- finding the shortest path in a density-weighted graph, an approach suggested by Poyiadzi et. al in [Feasible and Actionable Counterfactual Explainations][face].
 
 # Files
 face_counterfactuals.ipynb -- implementing Feasible and Actionable Counterfactual Explainations
